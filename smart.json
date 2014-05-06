@@ -3,6 +3,6 @@
 	"description": "jquery-sidr packaged for Meteor", 
 	"homepage": "https://github.com/sunkay/meteor-jquery-sidr",
 	"author": "sunkay",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"git": "https://github.com/sunkay/meteor-jquery-sidr.git"
 }
