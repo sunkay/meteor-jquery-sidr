@@ -4,7 +4,7 @@ Package.describe({
 
 Package.on_use(function (api) {
 	api.use('jquery', 'client'); 
-	api.add_files('lib/sidr/jquery.sidr.js', 'client');
-	api.add_files('lib/sidr/stylesheets/jquery.sidr.light.css', 'client');
-	api.add_files('lib/sidr/stylesheets/jquery.sidr.dark.css', 'client');
+	api.add_files('lib/sidr/dist/jquery.sidr.js', 'client');
+	api.add_files('lib/sidr/dist/stylesheets/jquery.sidr.light.css', 'client');
+	api.add_files('lib/sidr/dist/stylesheets/jquery.sidr.dark.css', 'client');
 });
