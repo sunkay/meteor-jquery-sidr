@@ -14,3 +14,5 @@ Check out the [Sidr docs](http://www.berriart.com/sidr/) for more details.
 
 ### Example:
 Clone [meteor-sidr-example repository](https://github.com/sunkay/meteor-sidr-example) to see a working example of how to use this to create responsive facebook style navigation menus. 
+
+See it working [here](http://sidr-example.meteor.com)
